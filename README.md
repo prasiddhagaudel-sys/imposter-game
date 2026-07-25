@@ -1,22 +1,24 @@
-# 😈 IMPOSTER - The Ultimate Social Deduction Party Game
+# 😈 IMPOSTER v1.0.1 - The Ultimate Social Deduction Party Game
 
+[![Version](https://img.shields.io/badge/Version-v1.0.1-red)](#)
 [![Flutter](https://img.shields.io/badge/Built%20with-Flutter-02569B?logo=flutter)](https://flutter.dev)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **IMPOSTER** is a thrilling, fast-paced local multiplayer party game designed for friends and families. Blend in, uncover secret words, deceive your opponents, and vote out the hidden Imposter before time runs out!
 
+Developed with ❤️ by **Integrators**.
+
 ---
 
-## 🔥 Features
+## 🌟 What's New in v1.0.1
 
-- 🎭 **Local Multiplayer Fun**: Support for 3 to 20 players on a single device.
-- 🩸 **Blood Red & Calm Blue Theme**: Sleek, immersive dark aesthetic with fluid animations.
-- 📚 **10 Comprehensive Word Categories**: Packed with 25 subtle, non-obvious hint words per entry tailored for South Asian (Nepal, India) & global players.
-- ⚡ **Dynamic Responsive UI**: Flawless layout adaptivity across all mobile screens, tablets, and desktop displays.
-- ⏱️ **Animated Discussion Timer**: Dynamic mood transitions from peaceful calm blue to intense blood red.
-- 📱 **Cross-Platform**: Fully supported on Windows Desktop and Android Mobile devices.
-- 100% **Offline Capable**: Zero internet required — play anywhere!
+- 🧠 **High-Difficulty Abstract Word Hints**: Overhauled hint system with tricky, subtle, and strategic clues for all 10 categories.
+- 🔄 **Auto-Rotating Homepage Slogans**: Slogans continuously rotate every 4 seconds in **Nepali**, **Hindi**, and **English**.
+- 🎭 **Suspense Thriller Reveal Screen**: Added emergency strobe aura, camera shake, and random multilingual villain taglines.
+- ⚙️ **Settings Gear Modal**: Includes video animation toggle, audio control bar, privacy policy card, and exit button.
+- 📖 **Expandable How-To-Play Accordion**: Clean dropdown rules card inside the Settings modal.
+- 👑 **Developer Credit Updated**: Updated developer credit to *Developed by Integrators*.
 
 ---
 
@@ -49,13 +51,6 @@ Each category contains rich everyday concepts with **25 tricky, indirect hints**
 ---
 
 ## 🛠️ Building from Source
-
-### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (3.x or higher)
-- Android Studio / VS Code with Flutter extension
-- Windows C++ Build Tools (for Windows Desktop builds)
-
-### Steps
 
 `ash
 # Clone this repository
